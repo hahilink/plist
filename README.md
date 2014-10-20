@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://res1.lznx.prod.china.hilink.cc.wscdns.com/eoa/IPA/eoa_mobile_ios_91_1017_Debug.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://res1.lznx.prod.china.hilink.cc.wscdns.com/eoa/IPA/image/eoa.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.hilink.eoa</string>
+				<key>bundle-version</key>
+				<string>1.0.3</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>Hilink</string>
+				<key>title</key>
+				<string>新天使帝国</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
